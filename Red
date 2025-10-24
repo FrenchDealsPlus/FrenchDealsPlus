@@ -1,0 +1,8 @@
+FrenchDeals+ — Version étendue (18 produits)
+===========================================
+
+Ce pack contient 18 produits (AliExpress, Awin, CJdropshipping) avec placeholders pour liens affiliés.
+- Remplacez 'affiliate_link' dans products.json par vos liens affiliés personnels.
+- Si Temu affiliate ne fonctionne pour toi, utilise AliExpress/Awin/CJ ou copies le lien produit direct (non-affiliate) — attention, sans lien affilié tu ne toucheras pas de commission.
+
+Déploiement : GitHub Pages / Netlify / ouvrir index.html localement.
